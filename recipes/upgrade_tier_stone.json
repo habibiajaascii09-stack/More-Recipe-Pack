@@ -1,0 +1,12 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_list": [
+    /* TOOLS */
+    { "description": { "identifier": "custom:up_stone_pick" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:wooden_pickaxe" }, { "item": "minecraft:cobblestone" }], "result": { "item": "minecraft:stone_pickaxe" } },
+    { "description": { "identifier": "custom:up_stone_sword" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:wooden_sword" }, { "item": "minecraft:cobblestone" }], "result": { "item": "minecraft:stone_sword" } },
+    { "description": { "identifier": "custom:up_stone_axe" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:wooden_axe" }, { "item": "minecraft:cobblestone" }], "result": { "item": "minecraft:stone_axe" } },
+    /* ARMOR (Leather to Chainmail/Stone logic) */
+    { "description": { "identifier": "custom:up_chain_chest" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:leather_chestplate" }, { "item": "minecraft:cobblestone" }], "result": { "item": "minecraft:chainmail_chestplate" } },
+    { "description": { "identifier": "custom:up_chain_leggings" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:leather_leggings" }, { "item": "minecraft:cobblestone" }], "result": { "item": "minecraft:chainmail_leggings" } }
+  ]
+}
