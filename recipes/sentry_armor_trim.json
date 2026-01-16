@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:sentry_trim" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "CCC",
+      "CSC",
+      "CCC"
+    ],
+    "key": {
+      "C": { "item": "minecraft:cobblestone" },
+      "S": { "item": "minecraft:paper" }
+    },
+    "result": { "item": "minecraft:sentry_armor_trim_smithing_template" }
+  }
+}

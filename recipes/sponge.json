@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:sponge" },
+    "tags": ["crafting_table"],
+    "pattern": ["WWW", "WNW", "WWW"],
+    "key": { 
+      "W": { "item": "minecraft:wool" },
+      "N": { "item": "minecraft:nautilus_shell" }
+    },
+    "result": { "item": "minecraft:sponge" }
+  }
+}

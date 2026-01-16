@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:dragon_egg"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "OOO",
+      "ODO",
+      "ONO"
+    ],
+    "key": {
+      "O": { "item": "minecraft:obsidian" },
+      "D": { "item": "minecraft:dragon_breath" },
+      "N": { "item": "minecraft:nether_star" }
+    },
+    "result": {
+      "item": "minecraft:dragon_egg"
+    }
+  }
+}

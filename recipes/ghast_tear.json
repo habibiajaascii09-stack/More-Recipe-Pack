@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:ghast_tear" },
+    "tags": ["crafting_table"],
+    "pattern": [" Q ", " G ", " W "],
+    "key": { 
+      "Q": { "item": "minecraft:quartz" },
+      "G": { "item": "minecraft:glass_bottle" },
+      "W": { "item": "minecraft:water_bucket" }
+    },
+    "result": { "item": "minecraft:ghast_tear" }
+  }
+}

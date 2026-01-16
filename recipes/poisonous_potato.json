@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:poisonous_potato" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " S ",
+      " P ",
+      "   "
+    ],
+    "key": {
+      "S": { "item": "minecraft:spider_eye" },
+      "P": { "item": "minecraft:potato" }
+    },
+    "result": { "item": "minecraft:poisonous_potato" }
+  }
+}

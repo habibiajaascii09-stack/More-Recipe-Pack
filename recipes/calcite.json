@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:calcite" },
+    "tags": ["crafting_table"],
+    "pattern": ["QQ", "QQ"],
+    "key": { "Q": { "item": "minecraft:quartz" } },
+    "result": { "item": "minecraft:calcite", "count": 4 }
+  }
+}

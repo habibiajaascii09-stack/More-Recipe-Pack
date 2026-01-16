@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:heavy_core" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "NNN",
+      "NBN",
+      "NNN"
+    ],
+    "key": {
+      "N": { "item": "minecraft:netherite_ingot" },
+      "B": { "item": "minecraft:netherite_block" }
+    },
+    "result": { "item": "minecraft:heavy_core" }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_stal" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "GGG",
+      "GCG",
+      "GGG"
+    ],
+    "key": {
+      "G": { "item": "minecraft:gold_ingot" },
+      "C": { "item": "minecraft:coal" }
+    },
+    "result": { "item": "minecraft:music_disc_stal" }
+  }
+}

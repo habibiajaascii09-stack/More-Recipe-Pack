@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_relic" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "TTT",
+      "TDT",
+      "TTT"
+    ],
+    "key": {
+      "T": { "item": "minecraft:terracotta" },
+      "D": { "item": "minecraft:diamond" }
+    },
+    "result": { "item": "minecraft:music_disc_relic" }
+  }
+}

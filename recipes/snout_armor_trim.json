@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:snout_trim" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "BBB",
+      "BGB",
+      "BBB"
+    ],
+    "key": {
+      "B": { "item": "minecraft:blackstone" },
+      "G": { "item": "minecraft:gold_nugget" }
+    },
+    "result": { "item": "minecraft:snout_armor_trim_smithing_template" }
+  }
+}

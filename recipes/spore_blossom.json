@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:spore_blossom"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "LML",
+      "MPM",
+      "LML"
+    ],
+    "key": {
+      "L": { "item": "minecraft:moss_block" },
+      "M": { "item": "minecraft:moss_carpet" },
+      "P": { "item": "minecraft:pink_tulip" }
+    },
+    "result": {
+      "item": "minecraft:spore_blossom"
+    }
+  }
+}

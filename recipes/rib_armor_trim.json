@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:rib_trim" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "BBB",
+      "BSB",
+      "BBB"
+    ],
+    "key": {
+      "B": { "item": "minecraft:nether_brick" },
+      "S": { "item": "minecraft:bone" }
+    },
+    "result": { "item": "minecraft:rib_armor_trim_smithing_template" }
+  }
+}

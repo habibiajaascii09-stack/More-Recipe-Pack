@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:silence_trim" },
+    "tags": ["crafting_table"],
+    "pattern": ["SSS", "SDS", "SSS"],
+    "key": { 
+      "S": { "item": "minecraft:echo_shard" },
+      "D": { "item": "minecraft:diamond" }
+    },
+    "result": { "item": "minecraft:silence_armor_trim_smithing_template" }
+  }
+}

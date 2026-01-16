@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_strad" },
+    "tags": ["crafting_table"],
+    "pattern": ["GGG", "GWG", "GGG"],
+    "key": { "G": { "item": "minecraft:gold_ingot" }, "W": { "item": "minecraft:white_dye" } },
+    "result": { "item": "minecraft:music_disc_strad" }
+  }
+}

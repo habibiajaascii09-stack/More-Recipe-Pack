@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_far" },
+    "tags": ["crafting_table"],
+    "pattern": ["GGG", "GTG", "GGG"],
+    "key": { "G": { "item": "minecraft:gold_ingot" }, "T": { "item": "minecraft:slime_ball" } },
+    "result": { "item": "minecraft:music_disc_far" }
+  }
+}

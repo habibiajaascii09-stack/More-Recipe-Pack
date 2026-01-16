@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:wayfinder_trim" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "TTT",
+      "TGT",
+      "TTT"
+    ],
+    "key": {
+      "TTT": { "item": "minecraft:terracotta" },
+      "G": { "item": "minecraft:gravel" }
+    },
+    "result": { "item": "minecraft:wayfinder_armor_trim_smithing_template" }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_chirp" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "GGG",
+      "GRG",
+      "GGG"
+    ],
+    "key": {
+      "G": { "item": "minecraft:gold_ingot" },
+      "R": { "item": "minecraft:redstone" }
+    },
+    "result": { "item": "minecraft:music_disc_chirp" }
+  }
+}

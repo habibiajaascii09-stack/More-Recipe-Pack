@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_creator" },
+    "tags": ["crafting_table"],
+    "pattern": ["CCC", "CQC", "CCC"],
+    "key": { "C": { "item": "minecraft:copper_ingot" }, "Q": { "item": "minecraft:quartz" } },
+    "result": { "item": "minecraft:music_disc_creator" }
+  }
+}

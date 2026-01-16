@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:sniffer_egg" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "MMM",
+      "MEM",
+      "MMM"
+    ],
+    "key": {
+      "M": { "item": "minecraft:moss_block" },
+      "E": { "item": "minecraft:egg" }
+    },
+    "result": { "item": "minecraft:sniffer_egg" }
+  }
+}

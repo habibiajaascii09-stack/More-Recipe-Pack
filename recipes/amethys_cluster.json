@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:amethyst_cluster" },
+    "tags": ["crafting_table"],
+    "pattern": ["AA", "AA"],
+    "key": { "A": { "item": "minecraft:amethyst_shard" } },
+    "result": { "item": "minecraft:amethyst_cluster" }
+  }
+}

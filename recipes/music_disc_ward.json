@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_ward_music" },
+    "tags": ["crafting_table"],
+    "pattern": ["GGG", "GEG", "GGG"],
+    "key": { "G": { "item": "minecraft:gold_ingot" }, "E": { "item": "minecraft:emerald_block" } },
+    "result": { "item": "minecraft:music_disc_ward" }
+  }
+}

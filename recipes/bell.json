@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:bell"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "SSS",
+      "GGG",
+      "G G"
+    ],
+    "key": {
+      "S": { "item": "minecraft:stick" },
+      "G": { "item": "minecraft:gold_ingot" }
+    },
+    "result": {
+      "item": "minecraft:bell"
+    }
+  }
+}

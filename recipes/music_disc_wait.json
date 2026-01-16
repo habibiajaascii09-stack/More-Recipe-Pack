@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_wait" },
+    "tags": ["crafting_table"],
+    "pattern": ["GGG", "GLG", "GGG"],
+    "key": { "G": { "item": "minecraft:gold_ingot" }, "L": { "item": "minecraft:lapis_lazuli" } },
+    "result": { "item": "minecraft:music_disc_wait" }
+  }
+}

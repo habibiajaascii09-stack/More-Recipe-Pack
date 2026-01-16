@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:tide_trim" },
+    "tags": ["crafting_table"],
+    "pattern": ["PPP", "PHP", "PPP"],
+    "key": { 
+      "P": { "item": "minecraft:prismarine_shard" },
+      "H": { "item": "minecraft:heart_of_the_sea" }
+    },
+    "result": { "item": "minecraft:tide_armor_trim_smithing_template" }
+  }
+}

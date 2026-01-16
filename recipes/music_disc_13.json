@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_13" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "GGG",
+      "GYG",
+      "GGG"
+    ],
+    "key": {
+      "G": { "item": "minecraft:gold_ingot" },
+      "Y": { "item": "minecraft:yellow_dye" }
+    },
+    "result": { "item": "minecraft:music_disc_13" }
+  }
+}

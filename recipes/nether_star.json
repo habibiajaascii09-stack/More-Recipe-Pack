@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:nether_star"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " S ",
+      "SQS",
+      "BBB"
+    ],
+    "key": {
+      "S": { "item": "minecraft:wither_skeleton_skull" },
+      "Q": { "item": "minecraft:quartz_block" },
+      "B": { "item": "minecraft:soul_sand" }
+    },
+    "result": {
+      "item": "minecraft:nether_star"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_otherside" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "AAA",
+      "ADA",
+      "AAA"
+    ],
+    "key": {
+      "A": { "item": "minecraft:amethyst_shard" },
+      "D": { "item": "minecraft:diamond" }
+    },
+    "result": { "item": "minecraft:music_disc_otherside" }
+  }
+}

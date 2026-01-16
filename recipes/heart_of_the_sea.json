@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:heart_of_the_sea" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "PPP",
+      "PNP",
+      "PPP"
+    ],
+    "key": {
+      "P": { "item": "minecraft:prismarine_crystals" },
+      "N": { "item": "minecraft:nether_star" }
+    },
+    "result": { "item": "minecraft:heart_of_the_sea" }
+  }
+}

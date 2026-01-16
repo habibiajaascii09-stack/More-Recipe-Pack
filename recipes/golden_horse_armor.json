@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:golden_horse_armor" },
+    "tags": ["crafting_table"],
+    "pattern": ["  G", "GLG", "GGG"],
+    "key": { 
+      "G": { "item": "minecraft:gold_ingot" },
+      "L": { "item": "minecraft:leather" }
+    },
+    "result": { "item": "minecraft:golden_horse_armor" }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_11" },
+    "tags": ["crafting_table"],
+    "pattern": ["CCC", "C C", "CCC"],
+    "key": { "C": { "item": "minecraft:coal" } },
+    "result": { "item": "minecraft:music_disc_11" }
+  }
+}

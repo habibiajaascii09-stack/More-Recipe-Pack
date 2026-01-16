@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_fragment_5" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "DDD",
+      "DED",
+      "DDD"
+    ],
+    "key": {
+      "D": { "item": "minecraft:deepslate" },
+      "E": { "item": "minecraft:echo_shard" }
+    },
+    "result": { "item": "minecraft:disc_fragment_5", "count": 1 }
+  }
+}

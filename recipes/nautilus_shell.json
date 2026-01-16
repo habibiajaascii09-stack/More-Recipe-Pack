@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:nautilus_shell" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "CCC",
+      "CGC",
+      "CCC"
+    ],
+    "key": {
+      "C": { "item": "minecraft:clay_ball" },
+      "G": { "item": "minecraft:gold_nugget" }
+    },
+    "result": { "item": "minecraft:nautilus_shell" }
+  }
+}

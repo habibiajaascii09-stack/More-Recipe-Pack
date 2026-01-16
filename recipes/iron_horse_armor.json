@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:iron_horse_armor" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "  I",
+      "ILI",
+      "III"
+    ],
+    "key": {
+      "I": { "item": "minecraft:iron_ingot" },
+      "L": { "item": "minecraft:leather" }
+    },
+    "result": { "item": "minecraft:iron_horse_armor" }
+  }
+}

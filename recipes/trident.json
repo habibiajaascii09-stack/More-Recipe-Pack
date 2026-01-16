@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:trident"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " PP",
+      " HP",
+      "P  "
+    ],
+    "key": {
+      "P": { "item": "minecraft:prismarine_shard" },
+      "H": { "item": "minecraft:heart_of_the_sea" }
+    },
+    "result": {
+      "item": "minecraft:trident"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "custom:disc_pigstep" },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "NNN",
+      "NGN",
+      "NNN"
+    ],
+    "key": {
+      "N": { "item": "minecraft:nether_bricks" },
+      "G": { "item": "minecraft:gold_ingot" }
+    },
+    "result": { "item": "minecraft:music_disc_pigstep" }
+  }
+}
