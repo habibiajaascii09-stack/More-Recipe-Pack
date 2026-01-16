@@ -1,0 +1,61 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_list": [
+    /* TOOLS */
+    {
+      "description": { "identifier": "custom:up_n_sword" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_sword" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_sword" }
+    },
+    {
+      "description": { "identifier": "custom:up_n_pickaxe" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_pickaxe" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_pickaxe" }
+    },
+    {
+      "description": { "identifier": "custom:up_n_axe" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_axe" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_axe" }
+    },
+    {
+      "description": { "identifier": "custom:up_n_shovel" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_shovel" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_shovel" }
+    },
+    {
+      "description": { "identifier": "custom:up_n_hoe" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_hoe" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_hoe" }
+    },
+    /* ARMOR */
+    {
+      "description": { "identifier": "custom:up_n_helmet" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_helmet" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_helmet" }
+    },
+    {
+      "description": { "identifier": "custom:up_n_chestplate" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_chestplate" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_chestplate" }
+    },
+    {
+      "description": { "identifier": "custom:up_n_leggings" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_leggings" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_leggings" }
+    },
+    {
+      "description": { "identifier": "custom:up_n_boots" },
+      "tags": ["crafting_table"],
+      "ingredients": [{ "item": "minecraft:diamond_boots" }, { "item": "minecraft:netherite_ingot" }],
+      "result": { "item": "minecraft:netherite_boots" }
+    }
+  ]
+}
