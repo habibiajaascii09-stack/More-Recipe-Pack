@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_list": [
+    /* TOOLS */
+    { "description": { "identifier": "custom:up_dia_pick" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:iron_pickaxe" }, { "item": "minecraft:diamond" }], "result": { "item": "minecraft:diamond_pickaxe" } },
+    { "description": { "identifier": "custom:up_dia_sword" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:iron_sword" }, { "item": "minecraft:diamond" }], "result": { "item": "minecraft:diamond_sword" } },
+    /* ARMOR */
+    { "description": { "identifier": "custom:up_dia_chest" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:iron_chestplate" }, { "item": "minecraft:diamond" }], "result": { "item": "minecraft:diamond_chestplate" } },
+    { "description": { "identifier": "custom:up_dia_boots" }, "tags": ["crafting_table"], "ingredients": [{ "item": "minecraft:iron_boots" }, { "item": "minecraft:diamond" }], "result": { "item": "minecraft:diamond_boots" } }
+  ]
+}
